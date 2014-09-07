@@ -31,3 +31,4 @@ if __name__ == '__main__':
         print('Error: Cannot parse interval. Displaying temp only once.')
 
     main(interval)
+    
